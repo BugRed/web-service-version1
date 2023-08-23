@@ -1,4 +1,4 @@
-package com.exampleweb.demo.resource;
+package com.exampleweb.demo.resources;
 
 import java.net.URI;
 import java.util.List;
